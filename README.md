@@ -3,7 +3,7 @@ This repository contains the full set of labs and assignments I completed indepe
 
 ### 📂 Modules
 1. I/O and Variables, Types, Operator, and Expressions 
-   - Lab 1–3, 
+   - Lab 1–3
    - Assignment 1
 2. Flow Control, Selection, Repetition
    - Lab 4–6 
