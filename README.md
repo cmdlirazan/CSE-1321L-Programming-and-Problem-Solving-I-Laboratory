@@ -1,5 +1,5 @@
 ## CSE 1321L – Programming Problem Solving I (Python)
-This repository contains the full set of labs and assignments I completed independently for CSE 1321L at Kennesaw State University, earning 100% on each one.
+This repository contains the full set of labs and assignments I completed independently for **CSE 1321L** at **Kennesaw State University**, earning 100% on each one.
 
 ### 📂 Modules
 1. I/O and Variables, Types, Operator, and Expressions 
